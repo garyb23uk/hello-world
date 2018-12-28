@@ -1,2 +1,2 @@
-# hello-world
-Hello World example repo
+# Hello World
+This is an example Hello World repo
